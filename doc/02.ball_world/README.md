@@ -304,6 +304,8 @@ canvas.setOnMouseClicked(event -> {
 });
 ```
 
+> 📖 **이벤트 처리에 대한 자세한 설명은 [Java 이벤트 처리 가이드](./java_event_handling.md)를 참고하세요.**
+
 ### Lab 2-4: 충돌 감지 기초
 
 Ball 클래스에 두 공이 겹치는지 확인하는 메서드를 추가하세요:
@@ -746,6 +748,7 @@ public class WorldTest {
 
 ## 추가 학습 자료
 
+- [Java 이벤트 처리 가이드](./java_event_handling.md) - 이 장에서 사용하는 이벤트 처리 방법에 대한 상세 설명
 - [JavaFX Canvas Tutorial](https://docs.oracle.com/javafx/2/canvas/jfxpub-canvas.htm)
 - [Java 상속과 다형성](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
 - [Oracle Java 생성자 가이드](https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html)
